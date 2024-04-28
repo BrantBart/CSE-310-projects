@@ -1,0 +1,15 @@
+C:\Users\brant\OneDrive\Desktop\cse-310\projects\CSE-310-projects\bin\Debug\net8.0\CSE-310-projects.exe
+C:\Users\brant\OneDrive\Desktop\cse-310\projects\CSE-310-projects\bin\Debug\net8.0\CSE-310-projects.deps.json
+C:\Users\brant\OneDrive\Desktop\cse-310\projects\CSE-310-projects\bin\Debug\net8.0\CSE-310-projects.runtimeconfig.json
+C:\Users\brant\OneDrive\Desktop\cse-310\projects\CSE-310-projects\bin\Debug\net8.0\CSE-310-projects.dll
+C:\Users\brant\OneDrive\Desktop\cse-310\projects\CSE-310-projects\bin\Debug\net8.0\CSE-310-projects.pdb
+C:\Users\brant\OneDrive\Desktop\cse-310\projects\CSE-310-projects\obj\Debug\net8.0\CSE-310-projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brant\OneDrive\Desktop\cse-310\projects\CSE-310-projects\obj\Debug\net8.0\CSE-310-projects.AssemblyInfoInputs.cache
+C:\Users\brant\OneDrive\Desktop\cse-310\projects\CSE-310-projects\obj\Debug\net8.0\CSE-310-projects.AssemblyInfo.cs
+C:\Users\brant\OneDrive\Desktop\cse-310\projects\CSE-310-projects\obj\Debug\net8.0\CSE-310-projects.csproj.CoreCompileInputs.cache
+C:\Users\brant\OneDrive\Desktop\cse-310\projects\CSE-310-projects\obj\Debug\net8.0\CSE-310-projects.sourcelink.json
+C:\Users\brant\OneDrive\Desktop\cse-310\projects\CSE-310-projects\obj\Debug\net8.0\CSE-310-projects.dll
+C:\Users\brant\OneDrive\Desktop\cse-310\projects\CSE-310-projects\obj\Debug\net8.0\refint\CSE-310-projects.dll
+C:\Users\brant\OneDrive\Desktop\cse-310\projects\CSE-310-projects\obj\Debug\net8.0\CSE-310-projects.pdb
+C:\Users\brant\OneDrive\Desktop\cse-310\projects\CSE-310-projects\obj\Debug\net8.0\CSE-310-projects.genruntimeconfig.cache
+C:\Users\brant\OneDrive\Desktop\cse-310\projects\CSE-310-projects\obj\Debug\net8.0\ref\CSE-310-projects.dll

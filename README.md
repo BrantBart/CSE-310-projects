@@ -1,8 +1,17 @@
- My Project
+# Overview
 
-Set up project for Hello world assignment.
+My projects for training and learning purposes.
 
-1. Connected repository so I can commit to it.
-2. Run `dotnet build` to build the project.
-3. Run `dotnet run` to run the project.
-4. See "hello world!" displayed in terminal.
+This software will be written in C# as I develop my this hello world and other project work as it comes along.
+
+[Software Demo Video](http://youtube.link.goes.here)
+
+# Development Environment
+
+VS code is the IDE I chose to develop in.
+
+C# is used to make this initial project.
+
+# Useful Websites
+
+- [Web Site Name](https://www.youtube.com/watch?v=HFLALzkcjLM)

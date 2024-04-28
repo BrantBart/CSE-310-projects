@@ -4,7 +4,7 @@ My projects for training and learning purposes.
 
 This software will be written in C# as I develop my this hello world and other project work as it comes along.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=MXAOxleBh0w)
 
 # Development Environment
 

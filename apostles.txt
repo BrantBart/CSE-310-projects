@@ -1,0 +1,12 @@
+1,Peter
+2,James
+3,John
+4,Andrew
+5,Philip
+6,Bartholomew
+7,Matthew
+8,Thomas
+9,James (son of Alphaeus)
+10,Simon
+11,Jude
+12,Judas Iscariot
